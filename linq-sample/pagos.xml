@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<pagos>
+  <pago id="21" procesado="true" firmado="true" idEmpleado="d65031f0-fdc7-44ae-8fff-56b066dc6e94">
+    <descripcion>Quincena #20: Noviembre</descripcion>
+    <fecha>15 Noviembre 2022</fecha>
+    <montoBase>20000.10</montoBase>
+    <montoBono>3500.50</montoBono>
+  </pago>
+  <pago id="22" procesado="true" firmado="false" idEmpleado="4c501b10-b26c-4f5b-a2be-3ea5d77c1ae4">
+    <descripcion>Quincena #21: Noviembre</descripcion>
+    <fecha>30 Noviembre 2022</fecha>
+    <montoBase>18000.50</montoBase>
+    <montoBono>500.25</montoBono>
+  </pago>
+</pagos>

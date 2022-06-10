@@ -1,0 +1,18 @@
+[{
+  "nombre": "William Castañeda",
+  "nivel": "Sr",
+  "edad": 37,
+  "lenguajes": [ ".NET", "Javascript", "Pyton" ]
+},
+{
+  "nombre": "Joem Sanchez",
+  "nivel": "JR",
+  "edad": 35,
+  "lenguajes": [ ".NET"]
+},
+{
+  "nombre": "Carlos Villarreal",
+  "nivel": "Mid",
+  "edad": 32,
+  "lenguajes": [ ".NET", "Javascript" ]
+}]
