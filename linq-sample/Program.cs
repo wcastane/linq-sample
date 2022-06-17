@@ -66,7 +66,7 @@ List<Empleado> empleados = new List<Empleado>()
         Nombre = "Carlos",
         Apellido = "Villarreal",
         Departamento = Departamento.Desarrollo,
-        Edad = 35,
+        Edad = 34,
         Pagos = new List<Pago>
         {
             new Pago
